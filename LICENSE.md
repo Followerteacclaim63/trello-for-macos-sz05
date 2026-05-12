@@ -1,4 +1,4 @@
-#  
+#  Enhance Trello for macOS with Trello for macOS advanced Workflow - custom shortcuts and calendar integration, the #1 workflow. Includes custom shortcuts and calendar integration
 
 
 
